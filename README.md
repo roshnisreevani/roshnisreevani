@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Roshni 👋
 
-<!--
-**roshnisreevani/roshnisreevani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in artificial intelligence and software engineering, with a particular interest in Natural Language Processing (NLP) and Human-Computer Interaction (HCI).
 
-Here are some ideas to get you started:
+I'm fascinated by how people interact with intelligent systems and how AI can be designed to better understand, support, and communicate with humans.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Exploring
+
+* Natural Language Processing (NLP)
+* Human-Computer Interaction (HCI)
+* Machine Learning
+* Human-Centered AI
+* Full-Stack Development
+* Software Engineering
+* Decision Support Systems
+
+## Tech Stack
+
+Python • C++ • JavaScript • TypeScript • React • Node.js • MySQL • Git • Docker • Tavily • Ollama
+
+## Fun Fact
+
+One of the reasons I became interested in technology was wondering why a washing machine could react differently depending on what you put into it.
+
+Turns out I still spend most of my time asking how systems make decisions.
+
+## Connect with me!
+* roshni.gokeda9@gmail.com
+* www.linkedin.com/in/roshnisreevani
